@@ -120,6 +120,6 @@ def decryptRailFence(cipher, key):
 if __name__ == "__main__": 
 	print(encryptRailFence("TheCryptography",2))
 	
-	print(decryptRailFence("TerporpyhCytgah",2))
+	print(decryptRailFence("TerporpyhCytgah",2)) 
 
 
