@@ -1,6 +1,6 @@
 # The objective of this GitHub Action is to update the DIRECTORY.md file (if needed)
 # when doing a git push
-name: directory_writer
+name: update_directory_md
 on: [push]
 jobs:
   build:
