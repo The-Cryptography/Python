@@ -1,7 +1,7 @@
 '''
 @ AES.py
 @ Code by Xinyi Xiang
-@ Advanced Encryption Scheme in python
+@ Advanced Encryption Standard in python
 '''
 
 # return the AES result from given secrey key (k), plaintext(m) and cipher(x)
